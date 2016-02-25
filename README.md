@@ -13,14 +13,19 @@ If it does not contain a date or Unix timestamp, it returns null for those prope
 Installation
 
 To install npm: sudo npm install npm -g
+
 To install Express: npm install express
 
 Git Quickstart
 
 Fork it!
+
 Create your feature branch: git checkout -b my-new-feature
+
 Commit your changes: git commit -am 'Add some feature'
+
 Push to the branch: git push origin my-new-feature
+
 Submit a pull request
 
 License
